@@ -1,0 +1,22 @@
+body{}
+:root{
+    --main-color:#48dbfb;
+}
+.head{
+    height: 80vh;
+    background-image: url(image/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg);
+    background-size:cover;
+}
+.head ul li{
+    padding: 0 10px;
+}
+.head i{
+    font-size: 2rem;
+    color:var(--main-color);
+}
+.head-bottom {
+    color: white;
+    width: 34%;
+    margin-top: 10rem;
+    margin-right: 7rem;
+}
